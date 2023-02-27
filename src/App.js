@@ -8,7 +8,7 @@ import Navbar from './component/Navbar';
 import Herosplit from './component/Herosplit'
 import GridListWithCTA from './component/GridListWithCTA';
 import Testimonial from './component/Testimonial'
-import Forms from './component/Forms'
+// import Forms from './component/Forms'
 import Footer from './component/Footer'
 import Contact from './component/Contact'
 
@@ -19,7 +19,7 @@ function App() {
       <Herosplit />
       <GridListWithCTA />
       <Testimonial />
-      <Forms />
+      {/* <Forms /> */}
       <Contact />
       <Footer />
       
